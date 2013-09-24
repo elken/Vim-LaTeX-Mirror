@@ -60,3 +60,5 @@ Vim-LaTeX are as follows:
 * Customized Macros: Latex-suite makes it easy to add custom macros, 
   again with the possibility of dynamic content and automatic cursor 
   placement. 
+
+This project has nothing to do with me (yet), it's just a mirror.
